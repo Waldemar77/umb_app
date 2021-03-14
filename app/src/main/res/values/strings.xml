@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UMB Test</string>
+    <string name="txt_uName">UNIVERSIDAD MANUELA BELTRÁN</string>
+    <string name="txt_uName2">Programa de Ingeniería de Software</string>
+    <string name="txt_uName5">Estudioso: Sergio Garzón Mariño</string>
+    <string name="txt_uName4">Docente: Jhon Alexis Méndez Lara</string>
+    <string name="txt_uName3">Programación en Plataformas Móviles II</string>
+    <string name="txt_uName6">Febrero, 2021</string>
+    <string name="item1">Visitar Pág. Institucional</string>
+    <string name="item2">Buscar otras Páginas</string>
+    <string name="item3">Gestionar tu Agenda</string>
+    <string name="txt_mensajeURL">Por favor, ingresa la URL del sitio web que deseas navegar:</string>
+    <string name="txt_input_url">https://www.</string>
+    <string name="btn_ir_url">Ir al sitio web</string>
+    <string name="txt_title_agenda">GESTIONA TU AGENDA</string>
+    <string name="etxt_detalleEvent">Detalle del Evento</string>
+    <string name="btn_consultarAgenda">CONSULTA TU AGENDA</string>
+    <string name="btn_agregar_agenda">GUARDAR</string>
+    <string name="txt_consulta_evento">EVENTO A BUSCAR: </string>
+    <string name="editTextDate">Fecha (dd/mm/aaaa)</string>
+    <string name="editTextTitleAct">Título del Evento</string>
+    <string name="btn_consult_agen">CONSULTAR</string>
+    <string name="btn_atras">ANTERIOR</string>
+    <string name="btn_siguiente">SIGUIENTE</string>
+    <string name="txv_titleAgendaCons">Asunto del Evento</string>
+    <string name="txv_fechaAgendaCons">Fecha del Evento</string>
+    <string name="txv_detalleAgendaCons">Descripción del Evento</string>
+    <string name="txv_Id_agenda">Id Agenda</string>
+
+</resources>
